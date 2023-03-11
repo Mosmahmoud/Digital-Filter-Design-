@@ -1,5 +1,5 @@
 # SBME_DSP_DigitalFilterDesign
-Help Yourself – Digital Filter Design (web app)  
+ Digital Filter Design (web app)  
 
 ---  
 _**DEMO**_
